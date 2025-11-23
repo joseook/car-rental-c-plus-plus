@@ -1,0 +1,10 @@
+{
+  "cars": [
+    {"modelo": "Honda Civic", "ano": 2022, "precoPorDia": 150,000000, "disponivel": true},
+    {"modelo": "Toyota Corolla", "ano": 2023, "precoPorDia": 180,000000, "disponivel": true},
+    {"modelo": "Volkswagen Gol", "ano": 2021, "precoPorDia": 120,000000, "disponivel": false},
+    {"modelo": "Ford Ranger", "ano": 2023, "precoPorDia": 250,000000, "disponivel": true},
+    {"modelo": "Chevrolet Onix", "ano": 2022, "precoPorDia": 130,000000, "disponivel": true},
+    {"modelo": "BMW 320i", "ano": 2023, "precoPorDia": 350,000000, "disponivel": true}
+  ]
+}

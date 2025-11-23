@@ -1,0 +1,44 @@
+{
+  "rentals": [
+    {
+      "dataFim": "2024-01-20",
+      "dataInicio": "2024-01-15",
+      "devolvido": true,
+      "dias": 6,
+      "modelo": "Volkswagen Gol",
+      "precoPorDia": 120.0,
+      "total": 720.0,
+      "usuario": "joao"
+    },
+    {
+      "dataFim": "2024-02-05",
+      "dataInicio": "2024-02-01",
+      "devolvido": true,
+      "dias": 5,
+      "modelo": "BMW 320i",
+      "precoPorDia": 350.0,
+      "total": 1750.0,
+      "usuario": "maria"
+    },
+    {
+      "dataFim": "2024-01-12",
+      "dataInicio": "2024-01-10",
+      "devolvido": true,
+      "dias": 3,
+      "modelo": "Honda Civic",
+      "precoPorDia": 150.0,
+      "total": 450.0,
+      "usuario": "admin"
+    },
+    {
+      "dataFim": "2025",
+      "dataInicio": "2025",
+      "devolvido": true,
+      "dias": 1,
+      "modelo": "Honda Civic",
+      "precoPorDia": 150.0,
+      "total": 150.0,
+      "usuario": "admin"
+    }
+  ]
+}
